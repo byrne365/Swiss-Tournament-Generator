@@ -6,7 +6,8 @@ The Swiss Tournament Generator is a databse which was created as part of the Ful
 
 #Installation
 
-To run the prject successfully it is going to require that you download and install some software.
+To run the project successfully it is going to require that you download and install some software.
+
 1. `Python 2.7`
 2. `Git`
 3. `Virtual Box`
