@@ -85,3 +85,39 @@ Once the install is complete the installer will exit.
 1. Log into Vagrant VM by entering: `vagrant ssh`.
 2. Move to *tournament* directory by entering: `cd /vagrant/tournament/`.
 3. Create the *tournament* database by entering: `psql -f tournament.sql`.
+
+##Running the test database
+
+1. If you would like to test the database against Udacity's criteria, enter: `python tournament_test.py`
+2. The test database shouldl finish by printing `Success!  All tests pass!`
+
+##Running production database
+
+1. To run the production database enter `python tournament.py` into the terminal window.
+2. The output of the script will be dispalyed in the terminal window (see below).
+3. From here make a selection on what you would like to do.
+```
+    1) Delete all matches.
+
+    2) Delete all players.
+
+    3) Show all Players.
+
+    4) Add a player.
+
+    5) Show player standings.
+
+    6) Record the outcome of a match.
+
+    7) Generate the next Swiss Pairings.
+
+    8) Exit.
+
+    
+Select a menu item:
+```
+##To exit `vagrant`
+
+1. Enter vagrant halt in the terminal window, or in the `virtual box` gui double click on the `virtual machine` and a terminal style window will open.
+2. Click on the `exit` (cross) button in the top left(for Mac osx) or top right (windows based) to exit the program.
+3. Another window will appear with three options, select `power off the machine` and press `OK` and this will shut down the `virtual machine`.
