@@ -32,9 +32,37 @@ In your browser, browse to [python/downoads](https://www.python.org/downloads/) 
 
 1. From the download list at python.org select Mac OSX 64.32 bit installer.
 2. A pop up screen will appear for you to select the installers file location, once you have selected the location press the save button.
-3. Once the installer package has been donloaded click on the completed donload.
+3. Once the installer package has been downloaded click on the completed download.
 4. The installer will promp you to press Continue, until you reach the license agreement.At this point press agree to continue with the install.
 5. The install package will then ask you to install a standard instillation, if you are happy with this then click install
 Once the install is complete the installer will exit.
 
+##Installing Git
 
+1. In your browser, browse to [git](https://git-scm.com/downloads) and select the downlodad for your operating system.
+2. Your download should start automaticaly.
+3. A pop up screen will appear for you to select the installers file location, once you have selected the location press the save button.
+3. Once the installer package has been downloaded click on the completed download.
+4. The installer will promp you to press Continue, until you reach the license agreement.At this point press agree to continue with the install.
+5. The install package will then ask you to install a standard instillation, if you are happy with this then click install
+Once the install is complete the installer will exit.
+
+##Installing Virtual Box
+
+1. In your browser, browse to [virtual box](https://www.virtualbox.org/wiki/Downloads) and select the download for your operating system.
+2. Your download should start automaticaly.
+3. A pop up screen will appear for you to select the installers file location, once you have selected the location press the save button.
+3. Once the installer package has been downloaded click on the completed download.
+4. The installer will promp you to press Continue, until you reach the license agreement.At this point press agree to continue with the install.
+5. The install package will then ask you to install a standard instillation, if you are happy with this then click install
+Once the install is complete the installer will exit.
+
+##Installing vagrant
+
+1. In your browser browse over to [vagrant] (https://www.vagrantup.com/downloads.html)
+2. 2. Your download should start automaticaly.
+3. A pop up screen will appear for you to select the installers file location, once you have selected the location press the save button.
+3. Once the installer package has been downloaded click on the completed download.
+4. The installer will promp you to press Continue, until you reach the license agreement.At this point press agree to continue with the install.
+5. The install package will then ask you to install a standard instillation, if you are happy with this then click install
+Once the install is complete the installer will exit.
