@@ -66,3 +66,22 @@ Once the install is complete the installer will exit.
 4. The installer will promp you to press Continue, until you reach the license agreement.At this point press agree to continue with the install.
 5. The install package will then ask you to install a standard instillation, if you are happy with this then click install
 Once the install is complete the installer will exit.
+
+##Final steps for instillation
+
+1. Download the `vm_touranment_master` file which contains amoungst others the following three files:
+  * `tournament.py`
+  * `tournament.sql`
+  * `tournament_test.py`
+2. Open terminal:
+  * Windows: Use the Git Bash program (installed with Git) to get a Unix-style terminal.
+  * Other systems: Use your favorite terminal program.
+3. Change to the desired parent directory:
+  * Example: `cd Desktop`.
+  * and then `/vm_touranment_master/vagrant`.
+4. Run vagrant by entering: `vagrant up`.
+
+##Running the vagrant box
+1. Log into Vagrant VM by entering: `vagrant ssh`.
+2. Move to *tournament* directory by entering: `cd /vagrant/tournament/`.
+3. Create the *tournament* database by entering: `psql -f tournament.sql`.
